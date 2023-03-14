@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import PrimaryButton from '@/lib/Button/PrimaryButton';
 import SecondaryButton from '@/lib/Button/SecondaryButton';
 import { CloseIcon, HamburgerIcon } from '@chakra-ui/icons';

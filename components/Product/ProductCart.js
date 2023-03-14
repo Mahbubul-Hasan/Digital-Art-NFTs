@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import SecondaryButton from '@/lib/Button/SecondaryButton';
 import {
     Avatar,
